@@ -1,0 +1,13 @@
+tile.Th3Block.name=Th3 Block
+tile.Th3BlockTE.name=Th3 Tile Entity
+tile.Th3SidedBlock.name=Th3 Sided Block
+tile.Th3MetaBlock_0.name=Th3 Meta Block 0
+tile.Th3MetaBlock_1.name=Th3 Meta Block 1
+tile.Th3MetaBlock_2.name=Th3 Meta Block 2
+tile.Th3MetaBlock_3.name=Th3 Meta Block 3
+tile.Th3MetaBlock_4.name=Th3 Meta Block 4
+tile.Th3MetaBlock_5.name=Th3 Meta Block 5
+
+item.Th3Item.name=Th3 Item
+
+itemGroup.Th3Tab=Th3 Tab
